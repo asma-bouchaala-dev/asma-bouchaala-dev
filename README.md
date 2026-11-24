@@ -8,23 +8,23 @@ prototype people can try. Online I also go by **Sky**.
 
 ---
 
-##  Projects
+##  💼 Projects  
 
 ### [IMDAD](https://github.com/asma-bouchaala-dev/imdad) — Founder & Developer
 A digital platform that aims to create earning opportunities for women in
 Algeria through product promotion, without upfront capital or prior
 commercial experience. Multilingual (Arabic, English, French) with full RTL support.
 
-**Stack:** React · Vite · Node.js · PostgreSQL (schema)
-**Status:** working prototype · [Live demo](https://imdad-e2yr.onrender.com/)
+- **Stack:** React · Vite · Node.js · PostgreSQL (schema)
+- **Status:** working prototype · [Live demo](https://imdad-e2yr.onrender.com/)
 
 ### [VerifAI](https://github.com/asma-bouchaala-dev/verifAi) — Team Lead & Developer
 An educational web app that checks health claims against scientific evidence
 (PubMed, Europe PMC, ClinicalTrials.gov) and returns a clear verdict with
 sources and limitations. Built as part of NYAS Junior Academy.
 
-**Stack:** JavaScript · Node.js · Express · REST APIs
-**Status:** educational prototype · [Live demo](https://verifai-9vfo.onrender.com/)
+- **Stack:** JavaScript · Node.js · Express · REST APIs
+- **Status:** educational prototype · [Live demo](https://verifai-9vfo.onrender.com/)
 
 ---
 
