@@ -16,7 +16,6 @@ I learn by building. My experience comes from developing independent projects, e
 - 🚀 Focused on building useful digital products.
 
 ---
-
 ## 🚀 Selected Projects
 
 ### [IMDAD](https://github.com/asma-bouchaala-dev/imdad)
@@ -25,7 +24,12 @@ A digital platform I'm building to create earning opportunities for women in Alg
 
 The project explores digital commerce, product development, and technology, with a focus on making online selling more accessible.
 
+- 🌐 **Live Demo:** [Explore IMDAD](https://imdad-e2yr.onrender.com/)
+- 💻 **Source Code:** [View Repository](https://github.com/asma-bouchaala-dev/imdad)
+
 **Focus areas:** Product Development · Digital Commerce · Entrepreneurship
+
+---
 
 ### [VerifAI](https://github.com/asma-bouchaala-dev/verifAi)
 
@@ -33,9 +37,10 @@ Developed as part of the NYAS Junior Academy, VerifAI explores how technology ca
 
 The project combines web development, API integration, and scientific research to make evidence-based information more accessible.
 
-**Focus areas:** Web Development · API Integration · Scientific Research
+- 🌐 **Live Demo:** [Explore VerifAI](https://verifai-9vfo.onrender.com/)
+- 💻 **Source Code:** [View Repository](https://github.com/asma-bouchaala-dev/verifAi)
 
----
+**Focus areas:** Web Development · API Integration · Scientific Research
 
 ## 💻 Technologies & Tools
 
