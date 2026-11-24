@@ -54,6 +54,6 @@ sources and limitations. Built as part of NYAS Junior Academy.
 ## 🤝 Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/asma-bouchaala)
-- 🐙 [GitHub](https://github.com/asma-bouchaala-dev)
+
 
 *Still learning, still building, and always looking for something worth creating.*
